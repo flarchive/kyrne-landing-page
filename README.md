@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of kyrne/landing-page.** Not for installation: use [Packagist](https://packagist.org/packages/kyrne/landing-page) or the [upstream repository](https://github.com/KyrneDev/landing-page).
 
-**0** versions archived · Latest: [`v0.1.0-beta.7`](https://github.com/flarchive/kyrne-landing-page/tree/archive/v0.1.0-beta.7) · License: `GPL-3.0+` · Flarum: `^0.1.0-beta.8`
+**4** versions archived · Latest: [`v0.1.0-beta.7`](https://github.com/flarchive/kyrne-landing-page/tree/archive/v0.1.0-beta.7) · License: `GPL-3.0+` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.1` | 2016-06-10 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/kyrne-landing-page/tree/archive/v0.1.0-beta.1) |
+| `v0.1.0-beta.2` | 2017-06-23 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/kyrne-landing-page/tree/archive/v0.1.0-beta.2) |
+| `v0.1.0-beta.4` | 2020-07-28 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kyrne-landing-page/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.7` | 2020-08-23 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kyrne-landing-page/tree/archive/v0.1.0-beta.7) |
 
 Catalog entry: [packages/kyrne-landing-page.json](https://github.com/flarchive/archive-index/blob/main/packages/kyrne-landing-page.json)
 
